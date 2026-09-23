@@ -6,7 +6,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[Obsolescência de computadores e geração de lixo eletrônico]`
 
 ## Pergunta de pesquisa
 
