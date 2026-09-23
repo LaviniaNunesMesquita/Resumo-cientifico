@@ -6,7 +6,9 @@ Professor(a): Isabella Luiza dos Santos Souza
 
 Grupo: 
 
-Integrantes: Lavínia Nunes Mesquita RGM:49672771
+Integrantes: 
+
+             Lavínia Nunes Mesquita RGM:49672771
 
              Rayane Andrade Faustino RGM:48131181
              
