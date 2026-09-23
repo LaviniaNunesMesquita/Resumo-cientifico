@@ -10,7 +10,7 @@ Integrantes:
 
          Rayane Andrade Faustino RGM:48131181
          
-         Mariana Carneiro Silva RGM:
+         Mariana Carneiro Silva RGM:45728411
          
          Mayara Marinho de Souza RGM:47512598
 
