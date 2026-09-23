@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Obsolência de computadores e geração de lixo eletrônico]`
+`[Obsolescência de computadores e geração de lixo eletrônico]`
 
 ### Do tema amplo ao específico
 
@@ -47,15 +47,15 @@ Obsolescência programada. É um tema relevante por conta do seu impacto ambient
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
+- [X] O tema é específico.
+- [X] O tema é relevante.
+- [X] O tema é viável.
+- [X] O recorte está claro.
 - [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[Rayane Andrade Faustino]` | `[preencher]` |
-| `[Lavínia Nunes Mesquita]`  | `[ ] |
+| `[Rayane Andrade Faustino]` | `[pesquisa e discussão]` |
+| `[Lavínia Nunes Mesquita]`  | `[pesquisa, discussão, documentação] |
