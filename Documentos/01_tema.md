@@ -43,7 +43,6 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Produto da etapa
 
 Tema delimitado e justificativa.
-Obsolescência programada. É um tema relevante por conta do seu impacto ambiental e social.
 
 ## Checklist
 
