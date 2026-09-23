@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Obsolência de computadores e geração de lixo eletrÔnico]`
+`[Obsolência de computadores e geração de lixo eletrônico]`
 
 ### Do tema amplo ao específico
 
@@ -31,12 +31,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Justificativa
 
 `[Explique em 3 a 5 linhas por que o tema é importante.
-
-Impacto ambiental
-Acessibilidade
-Conscientização ambiental
-
-  O lixo eletrônico contém metais pesados que poluem o solo, os lençóis freáticos e a atmosfera  
+  O lixo eletrônico contém metais pesados que poluem o solo e os lençóis freáticos e gases poluentes que são liberados na atmosfera. Além de que para que os aparelhos sejam produzidos, a indústria utiliza da mineração para obter os metais raros e nobres, atividade que por si só tem alto impacto ambiental, mas o  descarte precoce torna necessário aumentar o ritmo da atividade extrativista. É muito importante que as empresas criem uma consciência ambiental acima da busca por lucros,  . Uma vez que isso não está nas mãos do público geral e sim das grandes empresas. essa questão contribui ainda para a segregação tecnológica e diminui a acessibilidade às tecnologias
 ]`
 
 ### Viabilidade
