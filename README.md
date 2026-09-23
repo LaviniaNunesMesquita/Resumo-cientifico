@@ -14,7 +14,7 @@ Integrantes:
              
              Mariana Carneiro Silva RGM:
              
-             Mayara Marinho de Souza RGM:
+             Mayara Marinho de Souza RGM:47512598
 
 # Como usar estes documentos
 
@@ -51,8 +51,8 @@ Prepare a apresentação (etapa 10)
 
 | Etapa | Arquivo |
 |---|---|
-| 1 Tema | `01_tema.md` |
-| 2 Problema | `02_problema_de_pesquisa.md` |
+| 1 Tema | `Obsolência de computadores e a geração de lixo eletrônico` |
+| 2 Problema | `Como a obsolência tecnológica de computadores contribui para a geração de resíduos eletrônicos e como práticas de TI verde podem ajudar a reduzir esse impacto?` |
 | 3 Objetivos | `03_objetivos.md` |
 | 4 Planejamento da busca | `04_planejamento_da_busca.md` |
 | 5 Triagem | `05_triagem_dos_artigos.md` |
