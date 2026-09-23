@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[ Como a obsolescência tecnológica de computadores contribui para a geração de lixo eletrônico?.]`
 
 ## Verificação
 
