@@ -15,10 +15,10 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
+- Curso e disciplina: `[Ciências da Computação; Design Profissional]`
 - Professor ou orientador: `[Isabela ]`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
+- Integrantes: `[Lavínia Nunes Mesquita; Rayane Andrade Faustino; Mariana Carneiro Silva; Mayara Marinho de Souza]`
 - Data de início: `[22/09/2026]`
 
 
