@@ -18,7 +18,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[Ciências da Computação; Design Profissional]`
 - Professor ou orientador: `[Isabela Luiza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Lavínia Nunes Mesquita; Rayane Andrade Faustino; Mariana Carneiro Silva; Mayara Marinho de Souza]`
+- Integrantes: `[Lavínia Nunes Mesquita; Rayane Andrade Faustino; Mariana Carneiro Silva; Mayara Marinho de Souza, Livia Ribeiro Freixo]`
 - Data de início: `[22/09/2026]`
 
 
