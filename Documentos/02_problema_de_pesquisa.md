@@ -6,11 +6,11 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[Obsolescência de computadores e geração de lixo eletrônico]`
+`[Obsolescência de dispositivos eletrônicos e geração de lixo]`
 
 ## Pergunta de pesquisa
 
-`[ Como a obsolescência tecnológica de computadores contribui para a geração de lixo eletrônico?.]`
+`[ Como a obsolescência tecnológica contribui para a geração de lixo eletrônico?.]`
 
 ## Verificação
 
