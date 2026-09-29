@@ -10,8 +10,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.
-Sintetizar informações sobre ]`
+`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
 
 ## Objetivos específicos
 
