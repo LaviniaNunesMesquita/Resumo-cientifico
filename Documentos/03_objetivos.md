@@ -6,7 +6,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Como a obsolescência tecnológica de computadores contribui para a geração de lixo eletrônico?]`
 
 ## Objetivo geral
 
