@@ -14,7 +14,7 @@ Evidenciar o problema da geração de lixo eletrônico decorrente da cultura da 
 
 ## Objetivos específicos
 
-1. 'Responsabilizar as empresas pelo impacto gerado no meio ambiente e na sociedade'
+1. 'Evidenciar responsabilidade das empresas pelo impacto gerado no meio ambiente e na sociedade'
 2. 'Demonstrar o impacto da geração de lixo eletronico no meio ambiente' 
 3. 'Mostrar o como as Empresas incentivam dessa geração de lixo eletronico'
 4. 'Explicar o que é a obsolecencia programada (opcional)'
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x ] Os objetivos começam com verbos no infinitivo.
+- [x ] O objetivo geral responde ao problema.
+- [x ] Os objetivos específicos detalham o objetivo geral.
+- [x ] Os objetivos são compatíveis com uma revisão bibliográfica.
