@@ -11,13 +11,13 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 ## Objetivo geral
 
 `[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
-
+Evidenciar o problema da geração de lixo eletrônico decorrente da cultura da obsolescência programada.
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[preencher]`Responsabilizar as empresas pelo impacto gerado no meio ambiente e na sociedade
+2. `[preencher]` Demonstrar o impacto da geração de lixo eletronico no meio ambiente 
+3. `[preencher]` Mostrar o como as Empresas incentivam dessa geração de lixo eletronico
+4. `[opcional]` Explicar o que é a obsolecencia programada
 
 ## Quadro de alinhamento
 
