@@ -24,9 +24,8 @@ Evidenciar o problema da geração de lixo eletrônico decorrente da cultura da 
 | Elemento | Texto |
 |---|---|
 | Problema | 'Geração de lixo eletrônico decorrente da cultura da obsolescência programada' |
-| Objetivo geral | 'Evidenciar o problema da geração de lixo eletrônico decorrente da cultura da obsolescência programada.'
- |
-| Resultado esperado | `Demonstrar o impacto da geração de lixo eletronico no meio ambiente ` |
+| Objetivo geral | 'Evidenciar o problema da geração de lixo eletrônico decorrente da cultura da obsolescência programada.'|
+| Resultado esperado | 'Demonstrar o impacto da geração de lixo eletronico no meio ambiente' |
 
 ## Produto da etapa
 
