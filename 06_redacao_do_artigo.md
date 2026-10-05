@@ -10,7 +10,7 @@ TI Verde e a obsolescência programada: impactos na geração de lixo eletrônic
 
 ## Palavras-chave
 
-`\\\[TI Verde] \\\[Obsolescência programada]; \\\[Lixo eletrônico]`
+TI Verde; Obsolescência programada; Lixo eletrônico
 
 ## Introdução
 
