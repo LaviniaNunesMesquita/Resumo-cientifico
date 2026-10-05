@@ -14,11 +14,11 @@ TI Verde e a obsolescência programada: impactos na geração de lixo eletrônic
 
 ## Introdução
 
-`\\\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo: 
+
 A tecnologia trouxe diversos benefícios para a sociedade, diversos meios de se comunicar, informações em tempo real e ferramentas digitais que facilitam o dia a dia. Porém, o crescimento do consumo de equipamentos eletrônicos também trouxe problemas ambientais relacionados ao descarte desses produtos. Tendo esse contexto em vista a junção da obsolescência programada dos eletrônicos e a busca constante por “produtos da Moda”  ou “últimos lançamentos”, contribui para que o consumidor realize substituição de equipamentos que ainda poderiam ser utilizados, aumentando a geração de lixo eletrônico (ARAÚJO; MARQUES, 2020).
 Não é incomum ver as pessoas considerarem seus smartfones “obsoletos”, pela valorização de novos modelos, contribuindo para a redução do tempo de utilização dos equipamentos (ORAEe et al., 2024).
 Diante desse cenário, este artigo tem como objetivo geral evidenciar o problema da geração de lixo eletrônico decorrente da cultura da obsolescência programada, discutindo a relação entre a substituição de equipamentos eletrônicos e seus impactos ambientais, considerando também a responsabilidade das empresas nesse processo.
-]`
+
 
 ## Metodologia
 
