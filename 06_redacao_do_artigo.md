@@ -36,20 +36,19 @@ Diante desse cenário, este artigo tem como objetivo geral evidenciar o problema
 
 ### Síntese crítica
 
-`\\\[Apresente tendências, convergências, divergências e lacunas. :
 Os estudos dos artigos analisados apresentam pontos em comum entre a relação de consumo, cultura da substituição de produtos tecnológicos e impactos ambientais. Araújo e Marques (2020) destaca a relação entre obsolescência e consumismo, enquanto Oraee et al. (2024) tem em vista fatores que podem levar à substituição prematura de dispositivos eletrônicos. Chiang (2024), já amplia a discussão para a relação entre tecnologia e a sustentabilidade.
 Apesar das diferentes abordagens, os estudos mostram que o problema não está relacionado somente aos hábitos do consumidor. Mas a forma como os produtos são desenvolvidos, a possibilidade de manutenção e reparo, as estratégias de mercado e a busca constante por novos modelos também podem influenciar a vida útil dos equipamentos.
 Também foi possível observar que parte dos estudos concentra sua análise em produtos eletrônicos específicos, como smartphones já que é tipo mais comum de lixo eletrônico ,abordam os outros dispositivos eletrônicos de maneira mais ampla. Dessa forma, existe espaço para pesquisas que analisem de maneira mais específica a relação entre a obsolescência de computadores por exemplo, suas características de hardware e software e a geração de lixo eletrônico.
 
-]`
+
 
 ## Considerações finais
 
-`\\\[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas:
+
 
 A análise dos estudos permite evidenciar que a obsolescência programada e a substituição prematura de equipamentos podem contribuir para o aumento da geração de lixo eletrônico. O problema não depende somente da decisão individual do consumidor, pois também está relacionado às características dos produtos, ao comportamento de consumo e às condições de manutenção, reparo e reutilização.
 Os estudos também mostram que aumentar a vida útil dos equipamentos pode ser uma alternativa para diminuir os impactos ambientais causados pelo descarte. Nesse sentido, práticas relacionadas à TI Verde podem contribuir para uma utilização mais sustentável da tecnologia, incentivando a durabilidade, o reparo, a reutilização e o descarte adequado dos equipamentos.
-]`
+
 
 ## Resumo
 
