@@ -6,7 +6,6 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 # Título
 
-`\\\[Título claro e coerente com o tema:
 TI Verde e a obsolescência programada: impactos na geração de lixo eletrônico]`
 
 ## Palavras-chave
