@@ -22,7 +22,12 @@ Diante desse cenário, este artigo tem como objetivo geral evidenciar o problema
 
 ## Metodologia
 
-`\\\[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+Foi feita uma revisão de trabalhos já existentes sobre o assunto, a partir da leitura e análise dos artigos acadêmicos relacionados à obsolescência programada, ao consumo, à sustentabilidade, à tecnologia da informação e à geração de resíduos eletrônicos.
+A pesquisa considerou documentos publicados entre novembro de 2020 e 2024, conforme definido para a pesquisa. Encontramos diversos materiais relacionados a esse tema e, para uma busca melhor e mais assertiva, foram utilizados o Google Acadêmico e bases de pesquisa acadêmica. Foram utilizados termos como “obsolescência programada”, “lixo eletrônico”, “TI Verde e seus impactos na sustentabilidade”, e “tecnologia da informação”. Após as buscas, os trabalhos foram selecionados de acordo com a relação deles com o problema de pesquisa e com os objetivos do artigo.
+A análise dos estudos foi organizada de acordo com estes dois eixos principais:
+Eixo 1: obsolescência programada, consumo e substituição dos produtos.
+Eixo 2: tecnologia, sustentabilidade e geração de lixo eletrônico. 
+Depois de selecionarmos os artigos, analisamos o que cada estudo apresentava e identificamos as lacunas e diferenças entre os trabalhos analisados. Também foi possível compreender a relação entre a substituição de equipamentos tecnológicos e o aumento de resíduos eletrônicos. A análise também mostrou a importância da TI Verde como forma de reduzir esses impactos ambientais.
 
 ## Revisão da literatura
 
