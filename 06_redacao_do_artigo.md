@@ -65,9 +65,8 @@ Os estudos também mostram que aumentar a vida útil dos equipamentos pode ser u
 
 ## Checklist
 
-* \[ ] A introdução termina com o objetivo.
-* \[ ] A metodologia descreve o processo realmente realizado.
-* \[ ] A revisão compara os artigos.
-* \[ ] A conclusão responde ao problema.
-* \[ ] O resumo representa o texto completo.
+* \[X] A introdução termina com o objetivo.
+* \[X] A metodologia descreve o processo realmente realizado.
+* \[X] A revisão compara os artigos.
+* \[X] A conclusão responde ao problema.
 
