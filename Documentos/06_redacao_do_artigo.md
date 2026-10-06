@@ -2,6 +2,7 @@
 
 ## Solicitação
 
+
 Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a 1000 palavras.
 
 # Título
