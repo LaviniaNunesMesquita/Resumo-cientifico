@@ -19,7 +19,7 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 
 ## Metodologia
-  `\\\[Foi feita uma revisão de trabalhos já existentes sobre o assunto, a partir da leitura e análise dos artigos acadêmicos relacionados à obsolescência programada, ao consumo, à sustentabilidade, à tecnologia da informação e à geração de resíduos eletrônicos. 
+ `\\\[Foi feita uma revisão de trabalhos já existentes sobre o assunto, a partir da leitura e análise dos artigos acadêmicos relacionados à obsolescência programada, ao consumo, à sustentabilidade, à tecnologia da informação e à geração de resíduos eletrônicos. 
   A pesquisa considerou documentos publicados entre novembro de 2020 e 2024, conforme definido para a pesquisa. Existem diversos materiais relacionados ao tema e, para uma busca melhor e mais assertiva, utilizando Google Acadêmico e bases de pesquisa acadêmica. Empregados termos como “obsolescência programada”, “lixo eletrônico”, “TI Verde e impactos ambientais”. Depois os trabalhos foram selecionados de acordo com a relação deles com o problema de pesquisa e com os objetivos do artigo. 
     
     A análise dos estudos estrutura-se em dois eixos principais: 
@@ -63,9 +63,7 @@ Eixo 2: tecnologia, sustentabilidade e geração de lixo eletrônico.
 
 CHIANG, Chang-Tang. A systematic literature network analysis of green information technology for sustainability: Toward smart and sustainable livelihoods. Technological Forecasting and Social Change, v.199,2024,123053. DOI:10.1016/j.techfore.2023.123053. 
 
-ORAEe, Atrina; POHL, Lara; GEURTS, Daniëlle; REICHEL, Max. Overcoming premature smartphone obsolescence amongst young adults. Cleaner and Responsible Consumption, v.12,2024,100174. DOI:10.1016/j.clrc.2024.100174. 
-
-]`
+ORAEe, Atrina; POHL, Lara; GEURTS, Daniëlle; REICHEL, Max. Overcoming premature smartphone obsolescence amongst young adults. Cleaner and Responsible Consumption, v.12,2024,100174. DOI:10.1016/j.clrc.2024.100174. ]`
 
 ## Checklist
 
