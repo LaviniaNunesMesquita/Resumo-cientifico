@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`\[preencher]`|`\[autores/anos]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[preencher]`|
+|`\[ Tecnologia e sustentabilidade]`|`\[Chiang (2024)]`|`\[O artigo mostra que a tecnologia pode ajudar na sustentabilidade, mas também causar impactos ambientais.]`|`\[O estudo aborda a tecnologia de forma geral, sem focar apenas no descarte de equipamentos.]`|`\[Não trata especificamente da obsolescência de computadores.]`|`\[Faltam estudos que relacionem a sustentabilidade diretamente à durabilidade dos computadores.]`|
 
 ## Roteiro da revisão da literatura
 
